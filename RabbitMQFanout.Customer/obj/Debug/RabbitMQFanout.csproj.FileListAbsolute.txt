@@ -1,0 +1,8 @@
+C:\Users\macro\Desktop\胥图Demo\RabbitMQFanout\bin\Debug\RabbitMQFanout.exe
+C:\Users\macro\Desktop\胥图Demo\RabbitMQFanout\bin\Debug\RabbitMQFanout.pdb
+C:\Users\macro\Desktop\胥图Demo\RabbitMQFanout\bin\Debug\RabbitMQ.Client.dll
+C:\Users\macro\Desktop\胥图Demo\RabbitMQFanout\bin\Debug\RabbitMQ.Client.xml
+C:\Users\macro\Desktop\胥图Demo\RabbitMQFanout\obj\Debug\RabbitMQFanout.csproj.CoreCompileInputs.cache
+C:\Users\macro\Desktop\胥图Demo\RabbitMQFanout\obj\Debug\RabbitMQFanout.csproj.CopyComplete
+C:\Users\macro\Desktop\胥图Demo\RabbitMQFanout\obj\Debug\RabbitMQFanout.exe
+C:\Users\macro\Desktop\胥图Demo\RabbitMQFanout\obj\Debug\RabbitMQFanout.pdb

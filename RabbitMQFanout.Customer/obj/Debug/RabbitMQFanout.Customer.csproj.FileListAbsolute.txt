@@ -1,0 +1,16 @@
+C:\Users\macro\Desktop\胥图Demo\RabbitMQFanout\bin\Debug\RabbitMQ.Client.dll
+C:\Users\macro\Desktop\胥图Demo\RabbitMQFanout\bin\Debug\RabbitMQ.Client.xml
+C:\Users\macro\Desktop\胥图Demo\RabbitMQFanout\obj\Debug\RabbitMQFanout.Customer.csproj.CoreCompileInputs.cache
+C:\Users\macro\Desktop\胥图Demo\RabbitMQFanout\obj\Debug\RabbitMQFanout.Customer.exe
+C:\Users\macro\Desktop\胥图Demo\RabbitMQFanout\obj\Debug\RabbitMQFanout.Customer.pdb
+C:\Users\macro\Desktop\胥图Demo\RabbitMQFanout\bin\Debug\RabbitMQFanout.Customer.exe
+C:\Users\macro\Desktop\胥图Demo\RabbitMQFanout\bin\Debug\RabbitMQFanout.Customer.pdb
+C:\Users\macro\Desktop\胥图Demo\RabbitMQFanout\obj\Debug\RabbitMQFanout.Customer.csproj.CopyComplete
+D:\Githb\DotNetDemo\RabbitMQFanout.Customer\bin\Debug\RabbitMQFanout.Customer.exe
+D:\Githb\DotNetDemo\RabbitMQFanout.Customer\bin\Debug\RabbitMQFanout.Customer.pdb
+D:\Githb\DotNetDemo\RabbitMQFanout.Customer\bin\Debug\RabbitMQ.Client.dll
+D:\Githb\DotNetDemo\RabbitMQFanout.Customer\bin\Debug\RabbitMQ.Client.xml
+D:\Githb\DotNetDemo\RabbitMQFanout.Customer\obj\Debug\RabbitMQFanout.Customer.csproj.CoreCompileInputs.cache
+D:\Githb\DotNetDemo\RabbitMQFanout.Customer\obj\Debug\RabbitMQFanout.Customer.csproj.CopyComplete
+D:\Githb\DotNetDemo\RabbitMQFanout.Customer\obj\Debug\RabbitMQFanout.Customer.exe
+D:\Githb\DotNetDemo\RabbitMQFanout.Customer\obj\Debug\RabbitMQFanout.Customer.pdb
